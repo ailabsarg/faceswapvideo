@@ -18,4 +18,4 @@ Clone the repo, install dependencies with pip (`pip install -r requirements.txt`
 Contributions are welcome. Fork the repo and create a Pull Request with your changes.
 
 ## License
-This project is licensed under the MIT license terms.
+This project is licensed under GNU AFFERO GENERAL PUBLIC LICENSE Version 3.
